@@ -16,6 +16,16 @@ const subheadingsData = {
   ],
   2: [
     {
+      title: "2020 SE Factory",
+      content: (
+        <>
+          <p>
+            <li>Foundations of Computer Science</li>
+          </p>
+        </>
+      ),
+    },
+    {
       title: "2018 Bangor University",
       content: (
         <>
