@@ -30,7 +30,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            <li>MSc in Clinical and Health Psychology</li>
+            <li>M.Sc. in Clinical and Health Psychology</li>
           </p>
         </>
       ),
