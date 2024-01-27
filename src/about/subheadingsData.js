@@ -16,7 +16,7 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2018 Masters Degree",
+      title: "2018 Bangor University",
       content: (
         <>
           <p>
@@ -26,11 +26,11 @@ const subheadingsData = {
       ),
     },
     {
-      title: "2016 Bachelors Degree",
+      title: "2016 Lebanese American University",
       content: (
         <>
           <p>
-            <li>BSc in Psychology</li>
+            <li>BA in Psychology</li>
           </p>
         </>
       ),
@@ -38,23 +38,32 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2022 FullStack Developer",
+      title: "2022 Storiad",
       content: (
         <>
           <p>
-            <li>FullStack Developer at Storiad</li>
+            <li>Software Developer</li>
           </p>
         </>
       ),
     },
     {
-      title: "2020 Clinical Psychologist",
+      title: "2021 SE Factory",
+      content: (
+        <>
+          <p>
+            <li>FullStack Web Development Internship</li>
+          </p>
+        </>
+      ),
+    },
+    {
+      title: "2020 Saint George Hospital",
       content: (
         <>
           <p>
             <li>
-              Clinical Psychologist at Saint George Hospital University Medical
-              Center{" "}
+              Clinical Psychologist
             </li>
           </p>
         </>
