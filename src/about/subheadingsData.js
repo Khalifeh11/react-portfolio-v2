@@ -5,8 +5,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            FullStack Developer with a passion for creating cool things.
-            Interested in the intersection of technology and psychology.
+          Hello! I'm a FullStack Developer with a knack for merging technology and psychology. My expertise ranges from crafting user-friendly mental health apps to developing dynamic websites. Off-screen, I find joy in exploring open roads on my motorcycle. My world is a blend of innovative coding and the thrill of long rides, balancing digital creativity with real-world adventures
           </p>
         </>
       ),
