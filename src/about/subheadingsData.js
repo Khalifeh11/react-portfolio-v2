@@ -17,7 +17,9 @@ const subheadingsData = {
       title: "2018 Masters Degree",
       content: (
         <>
-          <p>MSc in Clinical and Health Psychology</p>
+          <p>
+            <li>MSc in Clinical and Health Psychology</li>
+          </p>
         </>
       ),
     },
@@ -25,7 +27,9 @@ const subheadingsData = {
       title: "2016 Bachelors Degree",
       content: (
         <>
-          <p>BSc in Psychology</p>
+          <p>
+            <li>BSc in Psychology</li>
+          </p>
         </>
       ),
     },
@@ -35,7 +39,9 @@ const subheadingsData = {
       title: "2022 FullStack Developer",
       content: (
         <>
-          <p>FullStack Developer at Storiad</p>
+          <p>
+            <li>FullStack Developer at Storiad</li>
+          </p>
         </>
       ),
     },
@@ -44,7 +50,10 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Clinical Psychologist at Saint George Hospital University Medical Center 
+            <li>
+              Clinical Psychologist at Saint George Hospital University Medical
+              Center{" "}
+            </li>
           </p>
         </>
       ),
