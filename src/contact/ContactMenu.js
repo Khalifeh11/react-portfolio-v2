@@ -53,8 +53,7 @@ export default function ContactMenu() {
         setIsSent(true);
       })
       .catch((error) => {
-        // console.error("Email sending failed", error);
-        console.log (serviceID, templateID, userID);
+        console.error("Email sending failed", error);
       })
       .finally(() => {
         setIsLoading(false);
