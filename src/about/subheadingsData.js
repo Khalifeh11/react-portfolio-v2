@@ -5,8 +5,8 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            FullStack Developer with a passion for creating cool things.
+            Interested in the intersection of technology and psychology.
           </p>
         </>
       ),
@@ -14,58 +14,37 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "2018 Masters Degree",
       content: (
         <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <p>MSc in Clinical and Health Psychology</p>
         </>
       ),
     },
     {
-      title: "2014 Bachelors Degree",
+      title: "2016 Bachelors Degree",
       content: (
         <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <p>BSc in Psychology</p>
         </>
       ),
     },
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "2022 FullStack Developer",
       content: (
         <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <p>FullStack Developer at Storiad</p>
         </>
       ),
     },
     {
-      title: "2020 UX Designer",
+      title: "2020 Clinical Psychologist",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-    {
-      title: "2017 IT Consultant",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Clinical Psychologist at Saint George Hospital University Medical Center 
           </p>
         </>
       ),

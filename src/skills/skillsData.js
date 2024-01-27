@@ -35,11 +35,11 @@ const skills = {
   ],
   2: [
     {
-      title: "PostgreSQL",
+      title: "PHP",
       level: 5,
     },
     {
-      title: "Node.js",
+      title: "Laravel",
       level: 4,
     },
     {
@@ -51,16 +51,12 @@ const skills = {
       level: 4,
     },
     {
-      title: "PHP",
-      level: 1,
-    },
-    {
       title: "SQL",
       level: 3,
     },
     {
       title: "Express.js",
-      level: 3,
+      level: 1,
     },
   ],
 };
