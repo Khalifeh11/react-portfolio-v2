@@ -4,21 +4,23 @@
   align-items: flex-start;
   top: 3rem;
   gap: 1.5625rem;
-  left: 50%;
+  left: 47%;
 }
 
-.nav-about {
+
+
+/* .nav-about {
   transform: translateX(-1.56rem);
-}
-.nav-skills {
+} */
+/* .nav-skills {
   transform: translateX(-6.25rem);
 }
 .nav-projects {
   transform: translateX(-10.94rem);
-}
-.nav-contact {
+} */
+/* .nav-contact {
   transform: translateX(-15.62rem);
-}
+} */
 
 a {
   width: 3.125rem;
@@ -57,6 +59,7 @@ a {
   .nav {
     top: calc(100vh - 8rem);
     transform: translateX(-50%);
+    left: 50%;
   }
   .nav-link {
     width: 2rem;

@@ -33,7 +33,8 @@
   .avatar.skills {
     z-index: -5;
     height: 100vh;
-    left: 5rem;
+    top: 10rem;
+    left: -15rem;
   }
 }
 
