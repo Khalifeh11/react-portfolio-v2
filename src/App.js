@@ -8,6 +8,7 @@ import Contact from "./contact/Contact";
 import "./styles/app.css";
 import Background from "./background/Background.js";
 import PlayerStats from "./playerStats/PlayerStats.js";
+import SocialLinks from "./about/SocialLinks.js";
 
 const App = () => {
   return (
@@ -15,12 +16,13 @@ const App = () => {
       <Nav />
       <Background />
       <Routes>
-        <Route path="/" element={<About />} />
-        <Route path="/skills" element={<Skills />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path='/' element={<About />} />
+        <Route path='/skills' element={<Skills />} />
+        <Route path='/projects' element={<Projects />} />
+        <Route path='/contact' element={<Contact />} />
       </Routes>
       <PlayerStats />
+      <SocialLinks />
     </Router>
   );
 };
